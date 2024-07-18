@@ -1,12 +1,12 @@
-# Cornelia Schnebelis Abenteuer: Eine Geschichte über Nikotinsucht
+# Cornelias Abenteuer: Eine Geschichte über Nikotinsucht
 
-Willkommen auf meiner Website! Diese Website erzählt die Geschichte von Cornelia Schnebeli und ihrem Kampf gegen die Nikotinsucht.
+Willkommen auf meiner Website! Diese Website erzählt die Geschichte von Cornelia und ihrem Kampf gegen die Nikotinsucht.
 
 ## Einleitung
-Diese Website wurde entwickelt, um die Herausforderungen und Erfolge von Cornelia Schnebeli zu dokumentieren, während sie gegen ihre Nikotinsucht kämpft. Hier findest du inspirierende Geschichten, hilfreiche Ressourcen und Unterstützung für alle, die ähnliche Kämpfe durchleben.
+Diese Website wurde entwickelt, um die Herausforderungen und Erfolge von Cornelia zu dokumentieren, während sie gegen ihre Nikotinsucht kämpft. Hier findest du inspirierende Geschichten, hilfreiche Ressourcen und Unterstützung für alle, die ähnliche Kämpfe durchleben.
 
-### Cornelia Schnebelis Geschichte
-Cornelia Schnebeli ist ein 14-jähriges Mädchen mit einem außergewöhnlichen Mut. Ihre Reise begann in jungen Jahren, als sie von älteren Freunden und dem Gruppenzwang in die Welt des Rauchens eingeführt wurde. Anfangs schien es harmlos und aufregend, doch schnell merkte Cornelia, dass die Sucht eine starke Macht über sie gewann.
+### Cornelias Geschichte
+Cornelia ist ein 14-jähriges Mädchen mit einem außergewöhnlichen Mut. Ihre Reise begann in jungen Jahren, als sie von älteren Freunden und dem Gruppenzwang in die Welt des Rauchens eingeführt wurde. Anfangs schien es harmlos und aufregend, doch schnell merkte Cornelia, dass die Sucht eine starke Macht über sie gewann.
 
 #### Die ersten Schritte
 Mit nur 12 Jahren probierte Cornelia ihre erste Zigarette. Es war ein sonniger Nachmittag auf dem Schulhof, als einer ihrer älteren Freunde ihr eine Zigarette anbot. Cornelia wollte dazugehören, wollte cool sein und akzeptierte das Angebot ohne zu zögern. Die erste Zigarette ließ sie husten und ihre Augen tränen, doch die Neugier war geweckt.
@@ -30,5 +30,5 @@ Sie hat sich entschlossen, ihre Geschichte zu teilen, um anderen Jugendlichen zu
 
 ---
 
-**Eine Nachricht von Cornelia Schnebeli:**
-> "Es gab Zeiten, in denen ich dachte, ich könnte es nie schaffen. Doch jeder kleine Schritt nach vorne, jede noch so kleine Verbesserung, hat mir gezeigt, dass es möglich ist. Du bist nicht allein in diesem Kampf. Gemeinsam können wir die Herausforderungen überwinden und ein gesünderes, glücklicheres Leben führen. Danke, dass du ein Teil meiner Reise bist."
+**Eine Nachricht von Cornelia:**
+> "Es gab Zeiten, in denen ich dachte, ich könnte es nie schaffen. Doch jeder kleine Schritt nach vorne, jede noch so kleine Verbesserung, hat mir gezeigt, dass es möglich ist. Du bist nicht allein in diesem Kampf. Gemeinsam können wir die Herausforderungen überwinden und ein gesünderes
